@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.77.70.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727969105647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727969567725
+  login: 1727969549442
+money: '0'
+last-account-name: Moaom1
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -19.0947008646602
+  y: 76.0
+  z: -49.789170415819
+  yaw: -29.081329345703125
+  pitch: 27.903867721557617
+logoutlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -696.7610696825295
+  y: 59.349504732604494
+  z: -427.8499126171119
+  yaw: 120.24380493164062
+  pitch: 26.250043869018555
+nickname: Moaom1

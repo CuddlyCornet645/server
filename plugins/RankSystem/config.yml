@@ -1,0 +1,147 @@
+RankSystem:
+  Prefix: '&r[&aRankSystem&r]'
+Ranks:
+  Rank1:
+    Group: owner
+    Permission: group.owner
+    Color: ''
+    Name: OWNER
+    Prefix: '&x&F&B&4&0&4&0[&x&E&A&3&5&3&5O&x&D&9&2&B&2&BW&x&C&9&2&0&2&0N&x&B&8&1&5&1&5E&x&A&7&0&B&0&BR&x&9&6&0&0&0&0]&r&f '
+    Chat: '&x&F&B&4&0&4&0[&x&E&A&3&5&3&5O&x&D&9&2&B&2&BW&x&C&9&2&0&2&0N&x&B&8&1&5&1&5E&x&A&7&0&B&0&BR&x&9&6&0&0&0&0]&r&f
+      %player%&r &f»&7 '
+  Rank2:
+    Group: coowner
+    Permission: group.coowner
+    Color: ''
+    Name: COOWNER
+    Prefix: '&x&E&6&7&7&3&5[&x&E&9&7&4&3&AC&x&E&C&7&2&3&FO&x&E&E&6&F&4&3-&x&F&1&6&D&4&8O&x&F&4&6&A&4&DW&x&F&7&6&8&5&2N&x&F&9&6&5&5&6E&x&F&C&6&3&5&BR&x&F&F&6&0&6&0]&r&f '
+    Chat: '&x&E&6&7&7&3&5[&x&E&9&7&4&3&AC&x&E&C&7&2&3&FO&x&E&E&6&F&4&3-&x&F&1&6&D&4&8O&x&F&4&6&A&4&DW&x&F&7&6&8&5&2N&x&F&9&6&5&5&6E&x&F&C&6&3&5&BR&x&F&F&6&0&6&0]
+      &x&F&F&6&0&6&0%player%&r &f»&7 '
+  Rank3:
+    Group: admin # inactive
+    Permission: group.admin
+    Color: ''
+    Name: ADMIN
+    Prefix: '&x&F&F&0&0&0&0[&x&F&F&0&F&0&FA&x&F&F&1&F&1&Fd&x&F&F&2&E&2&Em&x&F&F&3&D&3&Di&x&F&F&4&D&4&Dn&x&F&F&5&C&5&C]&r&f '
+    Chat: '&x&F&F&0&0&0&0[&x&F&F&0&F&0&FA&x&F&F&1&F&1&Fd&x&F&F&2&E&2&Em&x&F&F&3&D&3&Di&x&F&F&4&D&4&Dn&x&F&F&5&C&5&C]&r&f
+      %player%&r &f»&7 '
+  Rank4:
+    Group: developer
+    Permission: group.developer
+    Color: ''
+    Name: DEVELOPER
+    Prefix: '&b[DEV] '
+    Chat: '&b[DEV] %player%&r: '
+  Rank5:
+    Group: mod
+    Permission: group.mod
+    Color: ''
+    Name: MOD
+    Prefix: '&2[MOD] '
+    Chat: '&2[MOD] %player%&r: '
+  Rank6:
+    Group: builder
+    Permission: group.builder
+    Color: ''
+    Name: BUILDER
+    Prefix: '&e[BUILDER] '
+    Chat: '&e[BUILDER] %player%&r: '
+  Rank7:
+    Group: helper
+    Permission: group.helper
+    Color: ''
+    Name: HELPER
+    Prefix: '&1[HELPER] '
+    Chat: '&1[HELPER] %player%&r: '
+  Rank8:
+    Group: youtube
+    Permission: group.youtube
+    Color: ''
+    Name: YOUTUBE
+    Prefix: '&c[&rYOUTUBE&c] '
+    Chat: '&c[&rYOUTUBE&c] %player%&r: '
+  Rank9:
+    Group: twitch
+    Permission: group.twitch
+    Color: ''
+    Name: TWITCH
+    Prefix: '&5[TWITCH] '
+    Chat: '&5[TWITCH] %player%&r: '
+  Rank10:
+    Group: creator
+    Permission: group.creator
+    Color: ''
+    Name: CREATOR
+    Prefix: '&9[CREATOR] '
+    Chat: '&9[CREATOR] %player%&r: '
+  Rank11:
+    Group: mvp++
+    Permission: group.mvp++
+    Color: ''
+    Name: MVP++
+    Prefix: '&6[MVP&c++&6] '
+    Chat: '&6[MVP&c++&6] %player%&r: '
+  Rank12:
+    Group: mvp+
+    Permission: group.mvp+
+    Color: ''
+    Name: MVP+
+    Prefix: '&b[MVP&c+&b] '
+    Chat: '&b[MVP&c+&b] %player%&r: '
+  Rank13:
+    Group: mvp
+    Permission: group.mvp
+    Color: ''
+    Name: MVP
+    Prefix: '&b[MVP] '
+    Chat: '&b[MVP] %player%&r: '
+  Rank14:
+    Group: vip+
+    Permission: group.vip+
+    Color: ''
+    Name: VIP+
+    Prefix: '&a[VIP&6+&a] '
+    Chat: '&a[VIP&6+&a] %player%&r: '
+  Rank15:
+    Group: vip
+    Permission: group.vip
+    Color: ''
+    Name: VIP
+    Prefix: '&a[VIP] '
+    Chat: '&a[VIP] %player%&r: '
+  Rank16:
+    Group: supreme
+    Permission: group.supreme
+    Color: ''
+    Name: SUPREME
+    Prefix: '&d[SUPREME] '
+    Chat: '&d[SUPREME] %player%&r: '
+  Rank17:
+    Group: premium+
+    Permission: group.premium+
+    Color: ''
+    Name: PREMIUM+
+    Prefix: '&e[PREMIUM+] '
+    Chat: '&e[PREMIUM+] %player%&r: '
+  Rank18:
+    Group: premium
+    Permission: group.premium
+    Color: ''
+    Name: PREMIUM
+    Prefix: '&e[PREMIUM] '
+    Chat: '&e[PREMIUM] %player%&r: '
+  Rank19:
+    Group: +
+    Permission: group.+
+    Color: ''
+    Name: +
+    Prefix: '&3[+] '
+    Chat: '&3[+] %player%&r: '
+  Rank20:
+    Group: default
+    Permission: group.default
+    Color: ''
+    Name: defalut
+    Prefix: '&x&C&0&C&0&C&0[&x&B&4&B&4&B&4S&x&A&9&A&9&A&9p&x&9&D&9&D&9&Di&x&9&2&9&2&9&2e&x&8&6&8&6&8&6l&x&7&A&7&A&7&Ae&x&6&F&6&F&6&Fr&x&6&3&6&3&6&3]&r&i '
+    Chat: '&x&C&0&C&0&C&0[&x&B&4&B&4&B&4S&x&A&9&A&9&A&9p&x&9&D&9&D&9&Di&x&9&2&9&2&9&2e&x&8&6&8&6&8&6l&x&7&A&7&A&7&Ae&x&6&F&6&F&6&Fr&x&6&3&6&3&6&3]
+      &r&i%player%&r &f»&7 '

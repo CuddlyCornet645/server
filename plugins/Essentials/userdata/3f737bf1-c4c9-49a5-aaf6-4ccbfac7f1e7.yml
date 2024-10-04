@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.77.70.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727897978540
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727898856009
+  login: 1727897300653
+money: '0'
+last-account-name: Vilager008
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -506.8544470032156
+  y: 22.0
+  z: -791.6446773924274
+  yaw: -78.43115234375
+  pitch: 65.69998931884766
+logoutlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -198.1866409033342
+  y: -43.0
+  z: -185.6792041019651
+  yaw: -87.58148193359375
+  pitch: 24.44997787475586
+homes:
+  home:
+    world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+    world-name: world
+    x: -200.50335890149714
+    y: -42.0
+    z: -193.79764542323207
+    yaw: -171.13153076171875
+    pitch: 8.549996376037598

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.77.70.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727796543459
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727802912727
+  login: 1727802903028
+money: '0'
+last-account-name: nickiball6
+lastlocation:
+  world: 34116f32-96a1-445d-a5f6-c56dc6cd5294
+  world-name: world
+  x: 208.73911548747412
+  y: 71.0
+  z: -159.26088451252588
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 34116f32-96a1-445d-a5f6-c56dc6cd5294
+  world-name: world
+  x: 211.40213991662077
+  y: 78.0
+  z: -158.14415673384076
+  yaw: -78.04278564453125
+  pitch: 44.45255661010742

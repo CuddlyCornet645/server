@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.0.48.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727985446289
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727986015186
+  login: 1727985771804
+money: '0'
+last-account-name: metalzeufh
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: 775.5313302507069
+  y: -20.0
+  z: 172.28165767894927
+  yaw: -81.201416015625
+  pitch: 11.54994010925293
+logoutlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -1779.5189523788988
+  y: -26.0
+  z: -745.2671493975325
+  yaw: -97.801025390625
+  pitch: 13.649866104125977

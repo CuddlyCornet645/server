@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.10.134.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727893568072
+  login: 1727893089369
+money: '0'
+last-account-name: Andri_rudolf
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -15.5
+  y: 75.0
+  z: -47.5
+  yaw: -1.031649112701416
+  pitch: -2.8461556434631348
+logoutlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -851.1455902159214
+  y: 72.0
+  z: 160.82090891897678
+  yaw: -85.64154052734375
+  pitch: 26.954204559326172

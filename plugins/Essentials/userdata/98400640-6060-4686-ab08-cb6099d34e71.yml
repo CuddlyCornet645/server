@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.76.121.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728048041805
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728048828683
+  login: 1728047810767
+  kits:
+    tools: 1727797010168
+    rules: 1727869945006
+money: '0'
+last-account-name: M4tick
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: -26.14751101130359
+  y: 75.0
+  z: -71.47829303402301
+  yaw: -94.69219207763672
+  pitch: 56.44508743286133
+logoutlocation:
+  world: 0b2a3158-f31a-498d-b8a4-46264ad5c872
+  world-name: terra
+  x: 12.78223295385571
+  y: 68.0
+  z: 39.133200271702755
+  yaw: 25.280242919921875
+  pitch: 79.68375396728516
+homes:
+  home:
+    world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+    world-name: world
+    x: 753.3788713858672
+    y: -15.0
+    z: 190.3544683685832
+    yaw: 173.7159423828125
+    pitch: 37.73569869995117

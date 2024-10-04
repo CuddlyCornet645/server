@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.167.162.253
+afk: true
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727972378999
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727986028977
+  login: 1727966741039
+money: '0'
+last-account-name: Janni5_GHG
+lastlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: 362.77191568217756
+  y: -3.0
+  z: -2747.6880802103183
+  yaw: 175.92919921875
+  pitch: -42.84882354736328
+logoutlocation:
+  world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+  world-name: world
+  x: 338.30000001192093
+  y: 120.0
+  z: -2087.300000011921
+  yaw: -171.093505859375
+  pitch: -42.526756286621094
+homes:
+  home:
+    world: 14775eb2-6faa-4c0f-9f1b-20382e2490be
+    world-name: world
+    x: 311.5014890499486
+    y: 127.0
+    z: -2101.508963000614
+    yaw: -179.0955810546875
+    pitch: 90.0
+past-usernames:
+- jannisNr1
